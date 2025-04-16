@@ -1,0 +1,21 @@
+# Radar vegetation Index Anlaysis using Sentinel-1
+Products used: Sentinel-1 Synthetic Aperature Radar (SAR) Satelite Imagery, Vegetation Index
+
+# Background
+Radar Vegetation Index (RVI) is a powerful tool for monitoring vegetation structure and crop health using radar satellite data. 
+Unlike optical vegetation indices, RVI relies on radar backscatter—particularly from cross-polarized signals—which is sensitive to the density and orientation of plant material such as leaves and stems. 
+This makes RVI especially useful in detecting changes in vegetation cover, such as defoliation, over time.
+
+In tropical island nations, agriculture is central to food security and livelihoods. 
+However, persistent cloud cover, particularly during the wet season, often limits the effectiveness of optical satellites (e.g. Sentinel-2 or Landsat) in capturing key stages of the crop growth cycle. 
+This leads to gaps in monitoring data, especially during critical points in the growing season when detecting stress or decline is most important.
+
+The Sentinel-1 radar satellite, which uses Synthetic Aperture Radar (SAR), can collect data regardless of cloud cover or lighting conditions. 
+This capability makes it ideal for monitoring crop phenology and health trends throughout the year, even during cyclone season or overcast periods. 
+By analyzing multi-temporal Sentinel-1 data, we can compute the Radar Vegetation Index to detect patterns of vegetation growth, senescence, and potential defoliation events in near real-time.
+
+# Description
+This study explores how RVI, derived from Sentinel-1 data, can be applied to monitor agricultural vegetation dynamics and detect changes in plant life in Vanuatu. 
+Through time series analysis, we aim to detect signs of vegetation stress or loss, which may be linked to climatic events, pests, or land-use pressures—providing a more reliable method of crop surveillance in environments where optical sensors fall short.
+
+The outputs of this study can be used to assess spatio-temporal differences in the growing seasons of agriculture vegetation.
