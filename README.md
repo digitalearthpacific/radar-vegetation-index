@@ -1,5 +1,5 @@
 # Radar vegetation Index Anlaysis using Sentinel-1
-##Products used: Sentinel-1 Synthetic Aperature Radar (SAR) Satelite Imagery, Vegetation Index
+## Products used: Sentinel-1 Synthetic Aperature Radar (SAR) Satelite Imagery, Vegetation Index
 
 # Background
 Radar Vegetation Index (RVI) is a powerful tool for monitoring vegetation structure and crop health using radar satellite data. 
