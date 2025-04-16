@@ -20,3 +20,7 @@ This study explores how RVI, derived from Sentinel-1 data, can be applied to mon
 Through time series analysis, we aim to detect signs of vegetation stress or loss, which may be linked to climatic events, pests, or land-use pressures—providing a more reliable method of crop surveillance in environments where optical sensors fall short.
 
 The outputs of this study can be used to assess spatio-temporal differences in the growing seasons of agriculture vegetation.
+
+# Radar Vegetation Index Formular
+https://github.com/digitalearthpacific/Radar-Vegettaion-Index-RVI-/blob/f41fb0a4fd0df7d267bf2c3f4a1d91f32cbdd3a1/RVI.png
+
