@@ -1,5 +1,5 @@
 # Radar vegetation Index Anlaysis using Sentinel-1
-## Products used: 
+# Products used: 
 Sentinel-1 Synthetic Aperature Radar (SAR) Satelite Imagery, Vegetation Index (RVI)
 
 # Background
