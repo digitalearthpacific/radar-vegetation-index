@@ -24,6 +24,7 @@ The outputs of this study can be used to assess spatio-temporal differences in t
 # Radar Vegetation Index Formular
 <img width="406" alt="RVI" src="https://github.com/user-attachments/assets/cd565ac7-49ca-4a87-ad05-fa77c3b194d5" />
 
+
 The Radar Vegetation Index (RVI) is calculated using backscatter data from Sentinel-1 Synthetic Aperture Radar (SAR) and is designed to estimate vegetation structure and density. 
 
 The formula is expressed as RVI = (4σ⁰₍VH₎) / (σ⁰₍VV₎ + σ⁰₍VH₎), where σ⁰ represents the radar backscatter coefficient. σ⁰₍VH₎ is the cross-polarized backscatter (vertical transmit, horizontal receive), which is highly sensitive to vegetation volume, such as leaves and branches, while σ⁰₍VV₎ is the co-polarized backscatter (vertical transmit and receive), which mainly responds to surface features like soil roughness and moisture. 
