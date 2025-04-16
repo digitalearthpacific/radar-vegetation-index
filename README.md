@@ -22,5 +22,6 @@ Through time series analysis, we aim to detect signs of vegetation stress or los
 The outputs of this study can be used to assess spatio-temporal differences in the growing seasons of agriculture vegetation.
 
 # Radar Vegetation Index Formular
-! [RVI Formular] (Radar-Vegettaion-Index-RVI/RVI.png)
+<img width="406" alt="RVI" src="https://github.com/user-attachments/assets/cd565ac7-49ca-4a87-ad05-fa77c3b194d5" />
+
 
