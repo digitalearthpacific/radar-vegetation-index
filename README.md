@@ -33,4 +33,4 @@ The numerator multiplies the VH signal by four to enhance the vegetation signal,
 
 A high RVI value (closer to 1) indicates dense, healthy vegetation, whereas a low value (closer to 0) suggests sparse vegetation, defoliation, or bare soil. 
 
-This makes RVI a reliable tool for monitoring crop health and vegetation changes over time, especially in cloudy or rainy regions where optical data is often unavailable.
+This makes RVI a reliable tool for monitoring crop health and vegetation changes over time, especially in cloudy or rainy regions where optical data is often unavailable. 
