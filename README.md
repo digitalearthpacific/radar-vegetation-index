@@ -35,5 +35,8 @@ A high RVI value (closer to 1) indicates dense, healthy vegetation, whereas a lo
 
 This makes RVI a reliable tool for monitoring crop health and vegetation changes over time, especially in cloudy or rainy regions where optical data is often unavailable. 
 
+<img width="560" alt="Products" src="https://github.com/user-attachments/assets/65d4e0ac-ab99-4785-b814-385dd9c4ef96" />
+
+
 [Radar vegetation phenology using Sentinel-](url)](url)
 [ https://planetarycomputer.microsoft.com/docs/tutorials/customizable-rtc-sentinel1](url)
