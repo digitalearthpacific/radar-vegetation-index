@@ -40,3 +40,13 @@ This makes RVI a reliable tool for monitoring crop health and vegetation changes
 
 [Radar vegetation phenology using Sentinel-](url)](url)
 [ https://planetarycomputer.microsoft.com/docs/tutorials/customizable-rtc-sentinel1](url)
+
+# Monthly Phenology
+
+# Annual Variance
+
+# Annual Phenology
+
+# Disaster Impact
+
+
